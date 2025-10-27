@@ -16,10 +16,10 @@ const PRODUCTS = [
   },
   {
     id: 'p2',
-    name: 'Autographed Picture Of Mr Melton',
+    name: 'Signed Picture Of Mr Melton',
     desc: 'AUTOGRAPHED College Picture Of Mr Melton',
     price: 5.00,
-    qty: 8,
+    qty: 1,
     img: 'assets/meltonsigned.png',
     sold: false,
     category: 'Autograph',
