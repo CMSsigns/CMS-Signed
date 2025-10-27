@@ -5,7 +5,7 @@
 const PRODUCTS = [
   {
     id: 'p1',
-    name: 'Signed Poster',
+    name: 'Poster',
     desc: '8x10 glossy poster signed by selected teachers.',
     price: 12.00,
     qty: 5,
