@@ -11,18 +11,18 @@ const PRODUCTS = [
     qty: 1,
     img: 'assets/moellerpen.png',
     sold: false,
-    category: 'Posters',
-    note: ''
+    category: 'Item',
+    note: 'LIKE NEW'
   },
   {
     id: 'p2',
-    name: 'CMS Mug',
-    desc: '12oz ceramic mug with CMS Signed logo.',
-    price: 10.00,
+    name: 'Autographed Picture Of Mr Melton',
+    desc: 'AUTOGRAPHED College Picture Of Mr Melton',
+    price: 5.00,
     qty: 8,
-    img: 'assets/logo.png',
+    img: 'assets/meltonsigned.png',
     sold: false,
-    category: 'Drinkware',
+    category: 'Autograph',
     note: ''
   },
   {
