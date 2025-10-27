@@ -5,11 +5,11 @@
 const PRODUCTS = [
   {
     id: 'p1',
-    name: 'Poster',
-    desc: '8x10 glossy poster signed by selected teachers.',
-    price: 12.00,
-    qty: 5,
-    img: 'assets/logo.png',
+    name: 'Mr Moellers Pen',
+    desc: 'Pen USED By Mr Moeller',
+    price: 2.00,
+    qty: 1,
+    img: 'assets/moellerpen.png',
     sold: false,
     category: 'Posters',
     note: ''
