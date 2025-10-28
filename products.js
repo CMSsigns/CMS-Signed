@@ -24,27 +24,5 @@ const PRODUCTS = [
     sold: false,
     category: 'Autograph',
     note: ''
-  },
-  {
-    id: 'p3',
-    name: 'Lanyard',
-    desc: 'School lanyard with charm and keyring.',
-    price: 6.50,
-    qty: 12,
-    img: 'assets/logo.png',
-    sold: false,
-    category: 'Accessories',
-    note: ''
-  },
-  {
-    id: 'p4',
-    name: 'Tote Bag',
-    desc: 'Canvas tote — limited edition signed print.',
-    price: 18.00,
-    qty: 3,
-    img: 'assets/logo.png',
-    sold: true,
-    category: 'Bags',
-    note: 'Limited edition'
   }
 ];
